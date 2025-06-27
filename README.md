@@ -14,7 +14,6 @@ Backend aplikacji obliczającej prognozowaną produkcję energii PV oraz podsumo
 1. Sklonuj repozytorium:
 ```bash
 git clone https://github.com/k4rol4j/WeatherApp-backend.git
-cd 01-backend
 ```
 2️. Zainstaluj zależności:
 ```bash
