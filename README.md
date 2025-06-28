@@ -1,4 +1,4 @@
-# Weather PV Backend
+# Weather App Backend
 
 Backend aplikacji obliczającej prognozowaną produkcję energii PV oraz podsumowanie tygodnia na podstawie danych pogodowych z Open-Meteo.
 
